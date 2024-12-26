@@ -1,3 +1,4 @@
+# coding:gbk
 import sys
 import requests
 import json
