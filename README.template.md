@@ -42,19 +42,25 @@
 <details>
 <summary>【查看详情】</summary>
 
-1. ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Adobe&link=./software/adobe) 主要来自 [@vposy](https://m.weibo.cn/u/1112829033) 的破解版 Adobe 软件
-2. ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=AI&link=./software/ai/) AI 相关
-   - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=StableDiffusion&link=./software/ai/stable_diffusion/) Stable Diffusion
-   - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=LLaMA&link=./software/ai/pyllama/) LLaMA 泄露模型
-   - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=Docs&link=./software/ai/docs) AI 画图、ChatGPT、NewBing 相关教程
-3. ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Game&link=./software/game/) 游戏相关
-   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Minecraft&link=./software/game/mc/) Minecraft
-   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Galgame&link=./software/game/galgame/) Galgame
-   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=PvZ&link=./software/game/pvz/) PvZ
-   - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]&cacheSeconds=3600&link=./software/game/rhythm/) 音游
-4. ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement&link=./software/arrangement/) 编曲相关
-   - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=FLStudio&link=./software/arrangement/flstudio/) FLStudio
-   - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid 各版本软件及声库
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Adobe&link=./software/adobe) 主要来自 [@vposy](https://m.weibo.cn/u/1112829033) 的破解版 Adobe 软件
+
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=AI&link=./software/ai/) AI 相关
+  
+  - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=StableDiffusion&link=./software/ai/stable_diffusion/) Stable Diffusion
+  - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=LLaMA&link=./software/ai/pyllama/) LLaMA 泄露模型
+  - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=Docs&link=./software/ai/docs) AI 画图、ChatGPT、NewBing 相关教程
+
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Game&link=./software/game/) 游戏相关
+  
+  - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Minecraft&link=./software/game/mc/) Minecraft
+  - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Galgame&link=./software/game/galgame/) Galgame
+  - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=PvZ&link=./software/game/pvz/) PvZ
+  - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]&cacheSeconds=3600&link=./software/game/rhythm/) 音游
+
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement&link=./software/arrangement/) 编曲相关
+  
+  - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=FLStudio&link=./software/arrangement/flstudio/) FLStudio
+  - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid 各版本软件及声库
 
 </details>
 
@@ -63,31 +69,39 @@
 <details>
 <summary>【查看详情】</summary>
 
-1. ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Android&link=./system/android/) Android 玩机相关
-   - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=Magisk&link=./system/android/magisk/) Magisk 模块
-   - ![](https://img.shields.io/badge/Android-blue?label=Xposed&link=./system/android/xposed/) Xposed 模块
-   - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=ROM&link=./system/android/rom/) 刷机包
-     - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Recovery&link=./system/android/rom/recovery/) Recovery 刷机包
-     - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Fastboot&link=./system/android/rom/fastboot/) Fastboot 刷机包
-     - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Firmware&link=./system/android/rom/firmware/) Firmware 固件
-   - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=BootIMG&link=./system/android/boot/) Boot 分区镜像
-   - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=RecoveryIMG&link=./system/android/recovery/) 第三方 REC
-   - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=SystemApp&link=./system/android/app/) 部分系统软件安装包
-2. ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=ONT&link=./system/ont/) 光猫
-3. ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=NAS&link=./system/nas/) NAS
-4. ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Windows&link=./system/windows/) Windows
-   - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Image&link=./system/windows/image/) 镜像
-     - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Release&link=./system/windows/image/releases/) 正式版
-     - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Beta&link=./system/windows/image/beta/) 测试版
-     - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Modify&link=./system/windows/modify/) 修改版
-     - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=PE&link=./system/windows/winpe/) PE系统
-   - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Update&link=./system/windows/update/) 更新包
-   - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Patch&link=./system/windows/patch/) 补丁
-   - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Driver&link=./system/windows/driver/) 驱动
-   - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Runtime&link=./system/windows/runtime/) 运行库
-5. ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Linux&link=./system/linux/) Linux
-6. ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=MacOS&link=./system/macos/) MacOS
-7. ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=PPT&link=./system/ppt/) ~PPT 系统~
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Android&link=./system/android/) Android 玩机相关
+  
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=Magisk&link=./system/android/magisk/) Magisk 模块
+  - ![](https://img.shields.io/badge/Android-blue?label=Xposed&link=./system/android/xposed/) Xposed 模块
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=ROM&link=./system/android/rom/) 刷机包
+    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Recovery&link=./system/android/rom/recovery/) Recovery 刷机包
+    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Fastboot&link=./system/android/rom/fastboot/) Fastboot 刷机包
+    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Firmware&link=./system/android/rom/firmware/) Firmware 固件
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=BootIMG&link=./system/android/boot/) Boot 分区镜像
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=RecoveryIMG&link=./system/android/recovery/) 第三方 REC
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=SystemApp&link=./system/android/app/) 部分系统软件安装包
+
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=ONT&link=./system/ont/) 光猫
+
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=NAS&link=./system/nas/) NAS
+
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Windows&link=./system/windows/) Windows
+  
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Image&link=./system/windows/image/) 镜像
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Release&link=./system/windows/image/releases/) 正式版
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Beta&link=./system/windows/image/beta/) 测试版
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Modify&link=./system/windows/modify/) 修改版
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=PE&link=./system/windows/winpe/) PE系统
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Update&link=./system/windows/update/) 更新包
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Patch&link=./system/windows/patch/) 补丁
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Driver&link=./system/windows/driver/) 驱动
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Runtime&link=./system/windows/runtime/) 运行库
+
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Linux&link=./system/linux/) Linux
+
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=MacOS&link=./system/macos/) MacOS
+
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=PPT&link=./system/ppt/) ~PPT 系统~
 
 </details>
 
