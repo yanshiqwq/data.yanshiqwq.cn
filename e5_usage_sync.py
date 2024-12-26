@@ -1,4 +1,4 @@
-# æœ¬ç¨‹åºåŠå¯¹åº”çš„é…ç½®æ–‡ä»¶å‡ä¸º ChatGPT ç¼–å†™
+# ±¾³ÌĞò¼°¶ÔÓ¦µÄÅäÖÃÎÄ¼ş¾ùÎª ChatGPT ±àĞ´
 
 import sys
 import requests
@@ -9,46 +9,46 @@ import logging
 import argparse
 import datetime
 
-# è®¾ç½®å‘½ä»¤è¡Œå‚æ•°
+# ÉèÖÃÃüÁîĞĞ²ÎÊı
 parser = argparse.ArgumentParser()
-parser.add_argument('--config', default='config.yml', help='æŒ‡å®šé…ç½®æ–‡ä»¶è·¯å¾„')
-parser.add_argument('--output', default='output.md', help='æŒ‡å®šè¾“å‡ºæ–‡ä»¶è·¯å¾„')
-parser.add_argument('--input', default='template.md', help='æŒ‡å®šè¾“å…¥æ–‡ä»¶è·¯å¾„')
+parser.add_argument('--config', default='config.yml', help='Ö¸¶¨ÅäÖÃÎÄ¼şÂ·¾¶')
+parser.add_argument('--output', default='output.md', help='Ö¸¶¨Êä³öÎÄ¼şÂ·¾¶')
+parser.add_argument('--input', default='template.md', help='Ö¸¶¨ÊäÈëÎÄ¼şÂ·¾¶')
 args = parser.parse_args()
 
-# è®¾ç½®æ—¥å¿—è¾“å‡ºæ ¼å¼å’Œçº§åˆ«
+# ÉèÖÃÈÕÖ¾Êä³ö¸ñÊ½ºÍ¼¶±ğ
 logging.basicConfig(level=logging.INFO, datefmt='%Y/%m/%d %H:%M:%S',
                     format='[%(asctime)s] [%(levelname)s] %(message)s')
 
-# ä»é…ç½®æ–‡ä»¶ä¸­è¯»å–ç”¨æˆ·é…ç½®
+# ´ÓÅäÖÃÎÄ¼şÖĞ¶ÁÈ¡ÓÃ»§ÅäÖÃ
 try:
     with open(args.config, 'r', encoding='utf-8') as file:
         config = yaml.safe_load(file)
 except Exception as e:
-    logging.error('è¯»å–é…ç½®æ–‡ä»¶å¤±è´¥ï¼Œè¯·æ£€æŸ¥æ–‡ä»¶è·¯å¾„å’Œæ–‡ä»¶æ ¼å¼')
-    logging.error(f'é”™è¯¯ä¿¡æ¯ï¼š{e}')
+    logging.error('¶ÁÈ¡ÅäÖÃÎÄ¼şÊ§°Ü£¬Çë¼ì²éÎÄ¼şÂ·¾¶ºÍÎÄ¼ş¸ñÊ½')
+    logging.error(f'´íÎóĞÅÏ¢£º{e}')
     sys.exit(1)
 
-# æ£€æŸ¥é…ç½®æ–‡ä»¶ä¸­æ˜¯å¦åŒ…å«å¿…è¦çš„å‚æ•°
+# ¼ì²éÅäÖÃÎÄ¼şÖĞÊÇ·ñ°üº¬±ØÒªµÄ²ÎÊı
 if 'client_id' not in config or 'client_secret' not in config:
-    logging.error('é…ç½®æ–‡ä»¶ä¸­ç¼ºå°‘å¿…è¦çš„å‚æ•°ï¼Œè¯·æ·»åŠ  client_id å’Œ client_secret')
+    logging.error('ÅäÖÃÎÄ¼şÖĞÈ±ÉÙ±ØÒªµÄ²ÎÊı£¬ÇëÌí¼Ó client_id ºÍ client_secret')
     sys.exit(1)
 
 if 'refresh_tokens' not in config or not config['refresh_tokens']:
-    logging.error('é…ç½®æ–‡ä»¶ä¸­æ²¡æœ‰æ‰¾åˆ°æœ‰æ•ˆçš„ refresh_tokenï¼Œè¯·æ·»åŠ è‡³å°‘ä¸€ä¸ª OneDrive å¸æˆ·å¹¶æˆæƒåº”ç”¨ç¨‹åº')
+    logging.error('ÅäÖÃÎÄ¼şÖĞÃ»ÓĞÕÒµ½ÓĞĞ§µÄ refresh_token£¬ÇëÌí¼ÓÖÁÉÙÒ»¸ö OneDrive ÕÊ»§²¢ÊÚÈ¨Ó¦ÓÃ³ÌĞò')
     sys.exit(1)
 
-# è¯»å–é…ç½®æ–‡ä»¶ä¸­çš„å‚æ•°
+# ¶ÁÈ¡ÅäÖÃÎÄ¼şÖĞµÄ²ÎÊı
 client_id = config['client_id']
 client_secret = config['client_secret']
 refresh_tokens = config['refresh_tokens']
 refresh_tokens.append({"name": "total"})
 
-# ç”¨äºå­˜å‚¨ä¸åŒè´¦æˆ·çš„ä½¿ç”¨æƒ…å†µï¼Œæ ¼å¼ä¸º {tokenåç§°: å ç”¨å¤§å°}
+# ÓÃÓÚ´æ´¢²»Í¬ÕË»§µÄÊ¹ÓÃÇé¿ö£¬¸ñÊ½Îª {tokenÃû³Æ: Õ¼ÓÃ´óĞ¡}
 usage_dict = {}
 
 
-# è·å–access_token
+# »ñÈ¡access_token
 def get_access_token(refresh_token):
     url = 'https://login.microsoftonline.com/common/oauth2/v2.0/token'
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
@@ -65,7 +65,7 @@ def get_access_token(refresh_token):
 
 
 
-# è·å– OneDrive storage usage
+# »ñÈ¡ OneDrive storage usage
 def get_usage(access_token, name):
     url = 'https://graph.microsoft.com/v1.0/me/drive'
     headers = {
@@ -75,13 +75,13 @@ def get_usage(access_token, name):
     try:
         response = requests.get(url, headers=headers)
         usage = json.loads(response.text)['quota']['used']
-        logging.info(f'{name} çš„ OneDrive ä½¿ç”¨æƒ…å†µä¸ºï¼š{humanize.naturalsize(usage, binary=True, format="%.3f")}')
+        logging.info(f'{name} µÄ OneDrive Ê¹ÓÃÇé¿öÎª£º{humanize.naturalsize(usage, binary=True, format="%.3f")}')
         return usage
     except Exception as e:
-        logging.error(f'è·å– {name} OneDrive ä½¿ç”¨æƒ…å†µå¤±è´¥ï¼š{e}')
+        logging.error(f'»ñÈ¡ {name} OneDrive Ê¹ÓÃÇé¿öÊ§°Ü£º{e}')
 
 
-# å¤„ç† refresh tokens å¹¶è·å– OneDrive uses
+# ´¦Àí refresh tokens ²¢»ñÈ¡ OneDrive uses
 total_usage = 0
 try:
     for item in refresh_tokens:
@@ -91,26 +91,26 @@ try:
         usage = get_usage(access_token, name)
         usage_dict[name] = usage
         total_usage += usage
-        logging.info(f'{name} çš„ OneDrive ä½¿ç”¨æƒ…å†µè·å–æˆåŠŸ')
+        logging.info(f'{name} µÄ OneDrive Ê¹ÓÃÇé¿ö»ñÈ¡³É¹¦')
 except Exception as e:
-    logging.error(f'è·å– OneDrive ä½¿ç”¨æƒ…å†µå¤±è´¥ï¼š{e}')
+    logging.error(f'»ñÈ¡ OneDrive Ê¹ÓÃÇé¿öÊ§°Ü£º{e}')
 usage_dict["total"] = total_usage
 logging.info(usage_dict)
 
-# è¯»å–æ¨¡æ¿æ–‡ä»¶å†…å®¹
+# ¶ÁÈ¡Ä£°åÎÄ¼şÄÚÈİ
 with open(args.input, 'r', encoding='utf-8') as input_file:
     input_content = input_file.read()
 
-# æ›¿æ¢æ¨¡æ¿æ–‡ä»¶ä¸­çš„å ä½ç¬¦ä¸ºå®é™…çš„ OneDrive ä½¿ç”¨æƒ…å†µ
+# Ìæ»»Ä£°åÎÄ¼şÖĞµÄÕ¼Î»·ûÎªÊµ¼ÊµÄ OneDrive Ê¹ÓÃÇé¿ö
 input_content = input_content.replace(f'[modifydate_e5usagesync]', datetime.datetime.now().strftime("%Y/%m/%d"))
 for name in usage_dict:
     usage = usage_dict.get(name)
     usage_str = humanize.naturalsize(usage, binary=True, format="%.3f")
-    # å°†æ¨¡æ¿æ–‡ä»¶ä¸­çš„å ä½ç¬¦æ›¿æ¢ä¸ºå®é™…çš„ OneDrive ä½¿ç”¨æƒ…å†µ
+    # ½«Ä£°åÎÄ¼şÖĞµÄÕ¼Î»·ûÌæ»»ÎªÊµ¼ÊµÄ OneDrive Ê¹ÓÃÇé¿ö
     input_content = input_content.replace(f'[{name}_odusage]', usage_str)
     input_content = input_content.replace(f'[{name}_odusage_urlenc]', usage_str.replace(" ", "%20"))
 
-# å°†å¤„ç†åçš„æ¨¡æ¿æ–‡ä»¶å†…å®¹å†™å…¥è¾“å‡ºæ–‡ä»¶
+# ½«´¦ÀíºóµÄÄ£°åÎÄ¼şÄÚÈİĞ´ÈëÊä³öÎÄ¼ş
 with open(args.output, 'w', encoding='utf-8') as output_file:
     output_file.write(input_content)
-    logging.info('æ–‡ä»¶æ›´æ–°æˆåŠŸ')
+    logging.info('ÎÄ¼ş¸üĞÂ³É¹¦')
