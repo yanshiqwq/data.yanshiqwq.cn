@@ -1,153 +1,153 @@
-# ?? ÑÓÊ±¤ÎÆæÃîÍøÅÌ
+# ?? å»¶æ—¶ã®å¥‡å¦™ç½‘ç›˜
 
-> Ò»¸öÊÕ¼¯¸÷Â·Ææ¹Ö×ÊÔ´µÄ·ÖÏíÕ¾
+> ä¸€ä¸ªæ”¶é›†å„è·¯å¥‡æ€ªèµ„æºçš„åˆ†äº«ç«™
 > 
-> ?? Êı¾İ¸üĞÂÊ±¼ä: `[modifydate_e5usagesync]`
+> ?? æ•°æ®æ›´æ–°æ—¶é—´: `[modifydate_e5usagesync]`
 > 
-> ??? Êı¾İÍ¬²½¹¤¾ß£º![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https://github.com/yanshiqwq/e5_usage_sync&cacheSeconds=3600)
+> ??? æ•°æ®åŒæ­¥å·¥å…·ï¼š![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https://github.com/yanshiqwq/e5_usage_sync&cacheSeconds=3600)
 > 
-> ? ±¾ÍøÅÌÓÉÓÚ×ÊÔ´¹ıÓÚ·±ÔÓ, ¿ÉÄÜ»áÓĞĞ©Î´¾­ÊÚÈ¨µÄ×ÊÔ´, Èç¹ûÇÖ·¸ÁËÄúµÄÈ¨ÀûÇëÁªÏµÎÒÉ¾³ı
+> ? æœ¬ç½‘ç›˜ç”±äºèµ„æºè¿‡äºç¹æ‚, å¯èƒ½ä¼šæœ‰äº›æœªç»æˆæƒçš„èµ„æº, å¦‚æœä¾µçŠ¯äº†æ‚¨çš„æƒåˆ©è¯·è”ç³»æˆ‘åˆ é™¤
 > 
-> ÁªÏµÎÒ£º![](https://img.shields.io/badge/yanshiqwq-orange?logo=minutemailer&label=126.com&link=mailto:yanshiqwq@126.com) ![](https://img.shields.io/badge/ÑÓÊ±qwq-blue?logo=bilibili&label=bilibili&link=https://space.bilibili.com/431304449)
+> è”ç³»æˆ‘ï¼š![](https://img.shields.io/badge/yanshiqwq-orange?logo=minutemailer&label=126.com&link=mailto:yanshiqwq@126.com) ![](https://img.shields.io/badge/å»¶æ—¶qwq-blue?logo=bilibili&label=bilibili&link=https://space.bilibili.com/431304449)
 > 
-> ¸öÈËÁÄÌìÈº£º![](https://img.shields.io/badge/885182351-green?logo=tencentqq&label=QQ&link=https://jq.qq.com/?_wv=1027&k=gHfN8ogz)
+> ä¸ªäººèŠå¤©ç¾¤ï¼š![](https://img.shields.io/badge/885182351-green?logo=tencentqq&label=QQ&link=https://jq.qq.com/?_wv=1027&k=gHfN8ogz)
 > 
-> »¶Ó­Í¶Î¹£º?? [°®·¢µç](https://afdian.net/a/yanshiqwq)
+> æ¬¢è¿æŠ•å–‚ï¼š?? [çˆ±å‘ç”µ](https://afdian.net/a/yanshiqwq)
 > 
-> ²é¿´±¾Õ¾ÔËĞĞ×´¿ö£º[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
+> æŸ¥çœ‹æœ¬ç«™è¿è¡ŒçŠ¶å†µï¼š[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## ?? ·ÖÅÌÁĞ±í ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=[total_odusage_urlenc]&cacheSeconds=3600)
+## ?? åˆ†ç›˜åˆ—è¡¨ ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=[total_odusage_urlenc]&cacheSeconds=3600)
 
-| ÅÌ·û  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
+| ç›˜ç¬¦  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
 | --- | --------------- | ---------------- | --------------- | ---------------- | ---------------- | ---------------- |
-| ´óĞ¡  | [total_odusage] | [rep_01_odusage] | [sw_01_odusage] | [sys_01_odusage] | [rhy_01_odusage] | [med_01_odusage] |
-| Åä¶î  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
+| å¤§å°  | [total_odusage] | [rep_01_odusage] | [sw_01_odusage] | [sys_01_odusage] | [rhy_01_odusage] | [med_01_odusage] |
+| é…é¢  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
 
-### ?? ±êÊ¶½éÉÜ
+### ?? æ ‡è¯†ä»‹ç»
 
 <details>
-<summary>¡¾²é¿´ÏêÇé¡¿</summary>
+<summary>ã€æŸ¥çœ‹è¯¦æƒ…ã€‘</summary>
 
-- ³ÈÉ«£ºÅÌ·û±ê¼Ç£¬±íÃ÷Õâ¸öÄ¿Â¼ÓµÓĞÒ»¸ö**µ¥¶ÀµÄÅÌ·û**
-  - Ê¾Àı£º![](https://img.shields.io/badge/ÅÌ·û-orange?logo=DPD&label=1145.14GB)
-- ÂÌÉ«£ºÄ¿Â¼±ê¼Ç£¬±íÃ÷ÕâÊÇÒ»¸öÅÌ·ûÏÂµÄ**Ò»¼¶Ä¿Â¼**
-  - Ê¾Àı£º![](https://img.shields.io/badge/ËùÊôÅÌ·û-green?logo=onlyoffice&label=±êÊ¶Ãû)
-- À¶É«£ºÄ¿Â¼±ê¼Ç£¬±íÃ÷ÕâÊÇÒ»¸ö**×ÓÄ¿Â¼**
-  - Ê¾Àı£º![](https://img.shields.io/badge/ËùÊô¸¸Ä¿Â¼-blue?logo=filedotio&label=±êÊ¶Ãû)
+- æ©™è‰²ï¼šç›˜ç¬¦æ ‡è®°ï¼Œè¡¨æ˜è¿™ä¸ªç›®å½•æ‹¥æœ‰ä¸€ä¸ª**å•ç‹¬çš„ç›˜ç¬¦**
+  - ç¤ºä¾‹ï¼š![](https://img.shields.io/badge/ç›˜ç¬¦-orange?logo=DPD&label=1145.14GB)
+- ç»¿è‰²ï¼šç›®å½•æ ‡è®°ï¼Œè¡¨æ˜è¿™æ˜¯ä¸€ä¸ªç›˜ç¬¦ä¸‹çš„**ä¸€çº§ç›®å½•**
+  - ç¤ºä¾‹ï¼š![](https://img.shields.io/badge/æ‰€å±ç›˜ç¬¦-green?logo=onlyoffice&label=æ ‡è¯†å)
+- è“è‰²ï¼šç›®å½•æ ‡è®°ï¼Œè¡¨æ˜è¿™æ˜¯ä¸€ä¸ª**å­ç›®å½•**
+  - ç¤ºä¾‹ï¼š![](https://img.shields.io/badge/æ‰€å±çˆ¶ç›®å½•-blue?logo=filedotio&label=æ ‡è¯†å)
 
 </details>
 
-### ?? [Èí¼ş](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=[sw_01_odusage_urlenc]&cacheSeconds=3600)
+### ?? [è½¯ä»¶](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=[sw_01_odusage_urlenc]&cacheSeconds=3600)
 
 <details>
-<summary>¡¾²é¿´ÏêÇé¡¿</summary>
+<summary>ã€æŸ¥çœ‹è¯¦æƒ…ã€‘</summary>
 
-- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Adobe&link=./software/adobe) Ö÷ÒªÀ´×Ô [@vposy](https://m.weibo.cn/u/1112829033) µÄÆÆ½â°æ Adobe Èí¼ş
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Adobe&link=./software/adobe) ä¸»è¦æ¥è‡ª [@vposy](https://m.weibo.cn/u/1112829033) çš„ç ´è§£ç‰ˆ Adobe è½¯ä»¶
 
-- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=AI&link=./software/ai/) AI Ïà¹Ø
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=AI&link=./software/ai/) AI ç›¸å…³
   
   - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=StableDiffusion&link=./software/ai/stable_diffusion/) Stable Diffusion
-  - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=LLaMA&link=./software/ai/pyllama/) LLaMA Ğ¹Â¶Ä£ĞÍ
-  - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=Docs&link=./software/ai/docs) AI »­Í¼¡¢ChatGPT¡¢NewBing Ïà¹Ø½Ì³Ì
+  - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=LLaMA&link=./software/ai/pyllama/) LLaMA æ³„éœ²æ¨¡å‹
+  - ![](https://img.shields.io/badge/AI-blue?logo=filedotio&label=Docs&link=./software/ai/docs) AI ç”»å›¾ã€ChatGPTã€NewBing ç›¸å…³æ•™ç¨‹
 
-- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Game&link=./software/game/) ÓÎÏ·Ïà¹Ø
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Game&link=./software/game/) æ¸¸æˆç›¸å…³
   
   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Minecraft&link=./software/game/mc/) Minecraft
   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Galgame&link=./software/game/galgame/) Galgame
   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=PvZ&link=./software/game/pvz/) PvZ
-  - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]&cacheSeconds=3600&link=./software/game/rhythm/) ÒôÓÎ
+  - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]&cacheSeconds=3600&link=./software/game/rhythm/) éŸ³æ¸¸
 
-- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement&link=./software/arrangement/) ±àÇúÏà¹Ø
+- ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement&link=./software/arrangement/) ç¼–æ›²ç›¸å…³
   
   - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=FLStudio&link=./software/arrangement/flstudio/) FLStudio
-  - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid ¸÷°æ±¾Èí¼ş¼°Éù¿â
+  - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid å„ç‰ˆæœ¬è½¯ä»¶åŠå£°åº“
 
 </details>
 
-### ?? [ÏµÍ³](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=[sys_01_odusage_urlenc]&cacheSeconds=3600)
+### ?? [ç³»ç»Ÿ](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=[sys_01_odusage_urlenc]&cacheSeconds=3600)
 
 <details>
-<summary>¡¾²é¿´ÏêÇé¡¿</summary>
+<summary>ã€æŸ¥çœ‹è¯¦æƒ…ã€‘</summary>
 
-- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Android&link=./system/android/) Android Íæ»úÏà¹Ø
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Android&link=./system/android/) Android ç©æœºç›¸å…³
   
-  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=Magisk&link=./system/android/magisk/) Magisk Ä£¿é
-  - ![](https://img.shields.io/badge/Android-blue?label=Xposed&link=./system/android/xposed/) Xposed Ä£¿é
-  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=ROM&link=./system/android/rom/) Ë¢»ú°ü
-    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Recovery&link=./system/android/rom/recovery/) Recovery Ë¢»ú°ü
-    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Fastboot&link=./system/android/rom/fastboot/) Fastboot Ë¢»ú°ü
-    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Firmware&link=./system/android/rom/firmware/) Firmware ¹Ì¼ş
-  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=BootIMG&link=./system/android/boot/) Boot ·ÖÇø¾µÏñ
-  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=RecoveryIMG&link=./system/android/recovery/) µÚÈı·½ REC
-  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=SystemApp&link=./system/android/app/) ²¿·ÖÏµÍ³Èí¼ş°²×°°ü
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=Magisk&link=./system/android/magisk/) Magisk æ¨¡å—
+  - ![](https://img.shields.io/badge/Android-blue?label=Xposed&link=./system/android/xposed/) Xposed æ¨¡å—
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=ROM&link=./system/android/rom/) åˆ·æœºåŒ…
+    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Recovery&link=./system/android/rom/recovery/) Recovery åˆ·æœºåŒ…
+    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Fastboot&link=./system/android/rom/fastboot/) Fastboot åˆ·æœºåŒ…
+    - ![](https://img.shields.io/badge/ROM-blue?logo=filedotio&label=Firmware&link=./system/android/rom/firmware/) Firmware å›ºä»¶
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=BootIMG&link=./system/android/boot/) Boot åˆ†åŒºé•œåƒ
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=RecoveryIMG&link=./system/android/recovery/) ç¬¬ä¸‰æ–¹ REC
+  - ![](https://img.shields.io/badge/Android-blue?logo=filedotio&label=SystemApp&link=./system/android/app/) éƒ¨åˆ†ç³»ç»Ÿè½¯ä»¶å®‰è£…åŒ…
 
-- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=ONT&link=./system/ont/) ¹âÃ¨
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=ONT&link=./system/ont/) å…‰çŒ«
 
 - ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=NAS&link=./system/nas/) NAS
 
 - ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Windows&link=./system/windows/) Windows
   
-  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Image&link=./system/windows/image/) ¾µÏñ
-    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Release&link=./system/windows/image/releases/) ÕıÊ½°æ
-    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Beta&link=./system/windows/image/beta/) ²âÊÔ°æ
-    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Modify&link=./system/windows/modify/) ĞŞ¸Ä°æ
-    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=PE&link=./system/windows/winpe/) PEÏµÍ³
-  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Update&link=./system/windows/update/) ¸üĞÂ°ü
-  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Patch&link=./system/windows/patch/) ²¹¶¡
-  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Driver&link=./system/windows/driver/) Çı¶¯
-  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Runtime&link=./system/windows/runtime/) ÔËĞĞ¿â
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Image&link=./system/windows/image/) é•œåƒ
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Release&link=./system/windows/image/releases/) æ­£å¼ç‰ˆ
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Beta&link=./system/windows/image/beta/) æµ‹è¯•ç‰ˆ
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=Modify&link=./system/windows/modify/) ä¿®æ”¹ç‰ˆ
+    - ![](https://img.shields.io/badge/Image-blue?logo=filedotio&label=PE&link=./system/windows/winpe/) PEç³»ç»Ÿ
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Update&link=./system/windows/update/) æ›´æ–°åŒ…
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Patch&link=./system/windows/patch/) è¡¥ä¸
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Driver&link=./system/windows/driver/) é©±åŠ¨
+  - ![](https://img.shields.io/badge/Windows-blue?logo=filedotio&label=Runtime&link=./system/windows/runtime/) è¿è¡Œåº“
 
 - ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=Linux&link=./system/linux/) Linux
 
 - ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=MacOS&link=./system/macos/) MacOS
 
-- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=PPT&link=./system/ppt/) ~PPT ÏµÍ³~
+- ![](https://img.shields.io/badge/System-green?logo=onlyoffice&label=PPT&link=./system/ppt/) ~PPT ç³»ç»Ÿ~
 
 </details>
 
-## ? WebDAV ¹ÒÔØ
+## ? WebDAV æŒ‚è½½
 
-ÎªÁË·½±ãÅúÁ¿ÏÂÔØ£¬±¾Õ¾Ìá¹©ÁË WebDAV ¹ÒÔØ·şÎñ
+ä¸ºäº†æ–¹ä¾¿æ‰¹é‡ä¸‹è½½ï¼Œæœ¬ç«™æä¾›äº† WebDAV æŒ‚è½½æœåŠ¡
 
-? Èç¹ûÄãĞèÒª´óÅúÁ¿ÏÂÔØ±¾ÍøÕ¾ÉÏµÄ×ÊÔ´£¬ÇëÏÈÓëÎÒÁªÏµ
+? å¦‚æœä½ éœ€è¦å¤§æ‰¹é‡ä¸‹è½½æœ¬ç½‘ç«™ä¸Šçš„èµ„æºï¼Œè¯·å…ˆä¸æˆ‘è”ç³»
 
-| µØÖ·                            | ÕËºÅ    | ÃÜÂë     |
+| åœ°å€                            | è´¦å·    | å¯†ç      |
 | ----------------------------- | ----- | ------ |
 | https://data.yanshiqwq.cn/dav | guest | 114514 |
 
-## ??? ÌØ±ğ¸ĞĞ»
+## ??? ç‰¹åˆ«æ„Ÿè°¢
 
-- [@ÇïÈ~ aaaki](https://space.bilibili.com/12566101) - Ìá¹© `Stable Diffusion` Èë¿Ó½Ì³ÌÒÔ¼°ĞÂÊÖÏòÕûºÏ°ü
-- [@ÆßÃ×À¶ ChirmyRam](https://space.bilibili.com/34851756) - README ¸ñÊ½²Î¿¼
+- [@ç§‹è‘‰ aaaki](https://space.bilibili.com/12566101) - æä¾› `Stable Diffusion` å…¥å‘æ•™ç¨‹ä»¥åŠæ–°æ‰‹å‘æ•´åˆåŒ…
+- [@ä¸ƒç±³è“ ChirmyRam](https://space.bilibili.com/34851756) - README æ ¼å¼å‚è€ƒ
 
-| ´òÉÍÈË                                          | ´òÉÍ½ğ¶î    |
+| æ‰“èµäºº                                          | æ‰“èµé‡‘é¢    |
 | -------------------------------------------- | ------- |
-| [@¶øÌì¿Õ](https://space.bilibili.com/113326488) | 39.00 £¤ |
-| @woxizzy                                     | 39.00 £¤ |
+| [@è€Œå¤©ç©º](https://space.bilibili.com/113326488) | 39.00 ï¿¥ |
+| @woxizzy                                     | 39.00 ï¿¥ |
 
-> ÒÔ¼°£¬ÕıÔÚ¿´Õâ¶ÎÎÄ×ÖµÄ**Äã** ??
+> ä»¥åŠï¼Œæ­£åœ¨çœ‹è¿™æ®µæ–‡å­—çš„**ä½ ** ??
 
-## ?? ÍøÕ¾ÈÕÖ¾
+## ?? ç½‘ç«™æ—¥å¿—
 
 <details>
-<summary>¡¾²é¿´ÏêÇé¡¿</summary>
+<summary>ã€æŸ¥çœ‹è¯¦æƒ…ã€‘</summary>
 
-| ÈÕÆÚ         | ÈÕÖ¾                                                                                            |
+| æ—¥æœŸ         | æ—¥å¿—                                                                                            |
 | ---------- | --------------------------------------------------------------------------------------------- |
-| 2023/07/30 | Ê¹ÓÃ `Cloudflared` ÄÚÍø´©Í¸                                                                         |
-| 2023/07/10 | Ê¹ÓÃ [`afrps`](https://afrps.cn/) ÄÚÍø´©Í¸£¬Ö÷Ò³ README Ê¹ÓÃ [`ghproxy`](https://ghproxy.com/) ¾µÏñ        |
-| 2023/05/15 | ÎÄ¼şÒÑÈ«²¿Ç¨ÒÆµ½ĞÂ¶©ÔÄ£¨`yanshiqwq01`£©                                                                    |
-| 2023/04/06 | E5 ¶©ÔÄ£¨`yanshiqwq`£©±»Î¢ÈíÇ¿ÖÆ¹ıÆÚ                                                                     |
-| 2023/04/24 | Ê¹ÓÃ [`SakuraFrp`](https://www.natfrp.com/) ÄÚÍø´©Í¸                                                |
-| 2023/04/13 | Ê¹ÓÃ [`ĞÇ³½ÔÆ`](https://starxn.com/) ÄÚÍø´©Í¸£¬Ê¹ÓÃ [`CloudFlare`](https://www.cloudflare.com/) ~~¼õËÙ~~CDN |
-| 2023/04/11 | [`afrps`](https://afrps.cn/) ÎŞ·¨Á¬½Óµ¼ÖÂ·şÎñÆ÷ÀëÏß 48 Ğ¡Ê±                                                |
-| 2023/04/05 | È¥³ı `README.md` µÄÁ´½Ó emoji                                                                      |
-| 2023/04/02 | Ê×Ò³ `README.md` ÎÄ¼ş´ó¸Ä                                                                           |
-| 2023/04/02 | Ôö¼Ó¸üĞÂÈÕÖ¾Ä£¿é                                                                                      |
-| 2023/04/02 | ¿ª·ÅÁË´ò°üÏÂÔØ¹¦ÄÜ                                                                                     |
-| 2023/04/01 | Ôö¼ÓÁËÆÀÂÛÇø¹¦ÄÜ                                                                                      |
-| 2023/03/30 | ·ÖÅÌÕ¼ÓÃÇé¿ö¸ÄÓÃ³ÌĞò×Ô¶¯¸üĞÂ                                                                                |
-| 2022/04/12 | Ç¨ÒÆÖÁ [`Alist`](https://alist.nn.ci/)                                                           |
-| 2021/02/07 | ÍøÕ¾³É¹¦½¨Á¢                                                                                        |
+| 2023/07/30 | ä½¿ç”¨ `Cloudflared` å†…ç½‘ç©¿é€                                                                         |
+| 2023/07/10 | ä½¿ç”¨ [`afrps`](https://afrps.cn/) å†…ç½‘ç©¿é€ï¼Œä¸»é¡µ README ä½¿ç”¨ [`ghproxy`](https://ghproxy.com/) é•œåƒ        |
+| 2023/05/15 | æ–‡ä»¶å·²å…¨éƒ¨è¿ç§»åˆ°æ–°è®¢é˜…ï¼ˆ`yanshiqwq01`ï¼‰                                                                    |
+| 2023/04/06 | E5 è®¢é˜…ï¼ˆ`yanshiqwq`ï¼‰è¢«å¾®è½¯å¼ºåˆ¶è¿‡æœŸ                                                                     |
+| 2023/04/24 | ä½¿ç”¨ [`SakuraFrp`](https://www.natfrp.com/) å†…ç½‘ç©¿é€                                                |
+| 2023/04/13 | ä½¿ç”¨ [`æ˜Ÿè¾°äº‘`](https://starxn.com/) å†…ç½‘ç©¿é€ï¼Œä½¿ç”¨ [`CloudFlare`](https://www.cloudflare.com/) ~~å‡é€Ÿ~~CDN |
+| 2023/04/11 | [`afrps`](https://afrps.cn/) æ— æ³•è¿æ¥å¯¼è‡´æœåŠ¡å™¨ç¦»çº¿ 48 å°æ—¶                                                |
+| 2023/04/05 | å»é™¤ `README.md` çš„é“¾æ¥ emoji                                                                      |
+| 2023/04/02 | é¦–é¡µ `README.md` æ–‡ä»¶å¤§æ”¹                                                                           |
+| 2023/04/02 | å¢åŠ æ›´æ–°æ—¥å¿—æ¨¡å—                                                                                      |
+| 2023/04/02 | å¼€æ”¾äº†æ‰“åŒ…ä¸‹è½½åŠŸèƒ½                                                                                     |
+| 2023/04/01 | å¢åŠ äº†è¯„è®ºåŒºåŠŸèƒ½                                                                                      |
+| 2023/03/30 | åˆ†ç›˜å ç”¨æƒ…å†µæ”¹ç”¨ç¨‹åºè‡ªåŠ¨æ›´æ–°                                                                                |
+| 2022/04/12 | è¿ç§»è‡³ [`Alist`](https://alist.nn.ci/)                                                           |
+| 2021/02/07 | ç½‘ç«™æˆåŠŸå»ºç«‹                                                                                        |
 
 </details>
