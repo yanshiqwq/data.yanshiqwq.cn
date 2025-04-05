@@ -1,29 +1,29 @@
-# ?? 延时の奇妙网盘
+# 📦 延时の奇妙网盘
 
 > 一个收集各路奇怪资源的分享站
 > 
-> ?? 数据更新时间: `2025/04/05`
+> 🔄 数据更新时间: `2025/04/05`
 > 
-> ??? 数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https://github.com/yanshiqwq/e5_usage_sync&cacheSeconds=3600)
+> 🛠️ 数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https://github.com/yanshiqwq/e5_usage_sync&cacheSeconds=3600)
 > 
-> ? 本网盘由于资源过于繁杂, 可能会有些未经授权的资源, 如果侵犯了您的权利请联系我删除
+> ⚠ 本网盘由于资源过于繁杂, 可能会有些未经授权的资源, 如果侵犯了您的权利请联系我删除
 > 
 > 联系我：![](https://img.shields.io/badge/yanshiqwq-orange?logo=minutemailer&label=126.com&link=mailto:yanshiqwq@126.com) ![](https://img.shields.io/badge/延时qwq-blue?logo=bilibili&label=bilibili&link=https://space.bilibili.com/431304449)
 > 
 > 个人聊天群：![](https://img.shields.io/badge/885182351-green?logo=tencentqq&label=QQ&link=https://jq.qq.com/?_wv=1027&k=gHfN8ogz)
 > 
-> 欢迎投喂：?? [爱发电](https://afdian.net/a/yanshiqwq)
+> 欢迎投喂：🔋 [爱发电](https://afdian.net/a/yanshiqwq)
 > 
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## ?? 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.265%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=5.634%20TiB&cacheSeconds=3600)
 
 | 盘符  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
 | --- | --------------- | ---------------- | --------------- | ---------------- | ---------------- | ---------------- |
-| 大小  | 6.265 TiB | 258.305 GiB | 3.208 TiB | 1.912 TiB | 268.242 GiB | 646.588 GiB |
+| 大小  | 5.634 TiB | 258.305 GiB | 3.208 TiB | 1.912 TiB | 268.242 GiB | [med_01_odusage] |
 | 配额  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
 
-### ?? 标识介绍
+### 🎤 标识介绍
 
 <details>
 <summary>【查看详情】</summary>
@@ -37,7 +37,7 @@
 
 </details>
 
-### ?? [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=3.208%20TiB&cacheSeconds=3600)
+### 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=3.208%20TiB&cacheSeconds=3600)
 
 <details>
 <summary>【查看详情】</summary>
@@ -64,7 +64,7 @@
 
 </details>
 
-### ?? [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=1.912%20TiB&cacheSeconds=3600)
+### 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=1.912%20TiB&cacheSeconds=3600)
 
 <details>
 <summary>【查看详情】</summary>
@@ -105,17 +105,17 @@
 
 </details>
 
-## ? WebDAV 挂载
+## ☁ WebDAV 挂载
 
 为了方便批量下载，本站提供了 WebDAV 挂载服务
 
-? 如果你需要大批量下载本网站上的资源，请先与我联系
+⚠ 如果你需要大批量下载本网站上的资源，请先与我联系
 
 | 地址                            | 账号    | 密码     |
 | ----------------------------- | ----- | ------ |
 | https://data.yanshiqwq.cn/dav | guest | 114514 |
 
-## ??? 特别感谢
+## 🙇‍ 特别感谢
 
 - [@秋葉 aaaki](https://space.bilibili.com/12566101) - 提供 `Stable Diffusion` 入坑教程以及新手向整合包
 - [@七米蓝 ChirmyRam](https://space.bilibili.com/34851756) - README 格式参考
@@ -125,9 +125,9 @@
 | [@而天空](https://space.bilibili.com/113326488) | 39.00 ￥ |
 | @woxizzy                                     | 39.00 ￥ |
 
-> 以及，正在看这段文字的**你** ??
+> 以及，正在看这段文字的**你** 😇
 
-## ?? 网站日志
+## 📕 网站日志
 
 <details>
 <summary>【查看详情】</summary>
