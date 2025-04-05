@@ -16,11 +16,11 @@
 > 
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## ?? 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=0%20Bytes&cacheSeconds=3600)
+## ?? 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.265%20TiB&cacheSeconds=3600)
 
 | 盘符  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
 | --- | --------------- | ---------------- | --------------- | ---------------- | ---------------- | ---------------- |
-| 大小  | 0 Bytes | [rep_01_odusage] | [sw_01_odusage] | [sys_01_odusage] | [rhy_01_odusage] | [med_01_odusage] |
+| 大小  | 6.265 TiB | 258.305 GiB | 3.208 TiB | 1.912 TiB | 268.242 GiB | 646.588 GiB |
 | 配额  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
 
 ### ?? 标识介绍
@@ -37,7 +37,7 @@
 
 </details>
 
-### ?? [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=[sw_01_odusage_urlenc]&cacheSeconds=3600)
+### ?? [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=3.208%20TiB&cacheSeconds=3600)
 
 <details>
 <summary>【查看详情】</summary>
@@ -55,7 +55,7 @@
   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Minecraft&link=./software/game/mc/) Minecraft
   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Galgame&link=./software/game/galgame/) Galgame
   - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=PvZ&link=./software/game/pvz/) PvZ
-  - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]&cacheSeconds=3600&link=./software/game/rhythm/) 音游
+  - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=268.242%20GiB&cacheSeconds=3600&link=./software/game/rhythm/) 音游
 
 - ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement&link=./software/arrangement/) 编曲相关
   
@@ -64,7 +64,7 @@
 
 </details>
 
-### ?? [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=[sys_01_odusage_urlenc]&cacheSeconds=3600)
+### ?? [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=1.912%20TiB&cacheSeconds=3600)
 
 <details>
 <summary>【查看详情】</summary>
