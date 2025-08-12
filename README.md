@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站
 > 
-> 🔄 数据更新时间: `2025/04/05`
+> 🔄 数据更新时间: `2025/08/12`
 > 
 > 🛠️ 数据同步工具：[![yanshiqwq-blue?logo=github&label=e5_usage_sync](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&cacheSeconds=3600)](https://github.com/yanshiqwq/e5_usage_sync)
 > 
@@ -18,11 +18,11 @@
 > 
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## 🏷 分盘列表 [![Root-orange?logo=DPD&label=6.265%20TiB](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.265%20TiB&cacheSeconds=3600)]()
+## 🏷 分盘列表 [![Root-orange?logo=DPD&label=0%20Bytes](https://img.shields.io/badge/Root-orange?logo=DPD&label=0%20Bytes&cacheSeconds=3600)]()
 
 | 盘符  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
 | --- | --------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| 大小  | 6.265 TiB | 258.305 GiB | 3.208 TiB | 1.912 TiB | 268.242 GiB | 646.588 GiB |
+| 大小  | 0 Bytes | [rep_01_odusage] | [sw_01_odusage] | [sys_01_odusage] | [rhy_01_odusage] | [med_01_odusage] |
 | 配额  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
 
 ### 🎤 标识介绍
@@ -39,7 +39,7 @@
 
 </details>
 
-### 💾 [软件](./software/) [![Software-orange?logo=DPD&label=3.208%20TiB](https://img.shields.io/badge/Software-orange?logo=DPD&label=3.208%20TiB&cacheSeconds=3600)](./software/)
+### 💾 [软件](./software/) [![Software-orange?logo=DPD&label=[sw_01_odusage_urlenc]](https://img.shields.io/badge/Software-orange?logo=DPD&label=[sw_01_odusage_urlenc]&cacheSeconds=3600)](./software/)
 
 <details>
 <summary>【查看详情】</summary>
@@ -57,7 +57,7 @@
   - [![Game-blue?logo=filedotio&label=Minecraft](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Minecraft)](./software/game/mc/) Minecraft
   - [![Game-blue?logo=filedotio&label=Galgame](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Galgame)](./software/game/galgame/) Galgame
   - [![Game-blue?logo=filedotio&label=PvZ](https://img.shields.io/badge/Game-blue?logo=filedotio&label=PvZ)](./software/game/pvz/) PvZ
-  - [![Rhythm-orange?logo=DPD&label=268.242%20GiB](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=268.242%20GiB&cacheSeconds=3600)](./software/game/rhythm/) 音游
+  - [![Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]&cacheSeconds=3600)](./software/game/rhythm/) 音游
 
 - [![Software-green?logo=onlyoffice&label=Arrangement](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement)](./software/arrangement/) 编曲相关
   
@@ -66,7 +66,7 @@
 
 </details>
 
-### 🖥 [系统](./system/) [![System-orange?logo=DPD&label=1.912%20TiB](https://img.shields.io/badge/System-orange?logo=DPD&label=1.912%20TiB&cacheSeconds=3600)](./system/)
+### 🖥 [系统](./system/) [![System-orange?logo=DPD&label=[sys_01_odusage_urlenc]](https://img.shields.io/badge/System-orange?logo=DPD&label=[sys_01_odusage_urlenc]&cacheSeconds=3600)](./system/)
 
 <details>
 <summary>【查看详情】</summary>
@@ -136,6 +136,7 @@
 
 | 日期         | 日志                                                                                            |
 | ---------- | --------------------------------------------------------------------------------------------- |
+| 2025/08/12 | 迁移至 ['OpenList'](https://doc.oplist.org/)
 | 2023/07/30 | 使用 `Cloudflared` 内网穿透                                                                         |
 | 2023/07/10 | 使用 [`afrps`](https://afrps.cn/) 内网穿透，主页 README 使用 [`ghproxy`](https://ghproxy.com/) 镜像        |
 | 2023/05/15 | 文件已全部迁移到新订阅（`yanshiqwq01`）                                                                    |
