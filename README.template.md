@@ -14,7 +14,7 @@
 > 
 > 个人聊天群：[![885182351-green?logo=tencentqq&label=QQ](https://img.shields.io/badge/885182351-green?logo=tencentqq&label=QQ)](https://jq.qq.com/?_wv=1027&k=gHfN8ogz)
 > 
-> 欢迎投喂：🔋 [爱发电](https://afdian.net/a/yanshiqwq)
+> 欢迎投喂：🔋 [爱发电](https://afdian.com/a/yanshiqwq)
 > 
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
