@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站
 > 
-> 🔄 数据更新时间: `2025/08/12`
+> 🔄 数据更新时间: `2025/08/29`
 > 
 > 🛠️ 数据同步工具：[![yanshiqwq-blue?logo=github&label=e5_usage_sync](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&cacheSeconds=3600)](https://github.com/yanshiqwq/e5_usage_sync)
 > 
@@ -18,11 +18,11 @@
 > 
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## 🏷 分盘列表 [![Root-orange?logo=DPD&label=0%20Bytes](https://img.shields.io/badge/Root-orange?logo=DPD&label=0%20Bytes&cacheSeconds=3600)]()
+## 🏷 分盘列表 [![Root-orange?logo=DPD&label=6.578%20TiB](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.578%20TiB&cacheSeconds=3600)]()
 
 | 盘符  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
 | --- | --------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| 大小  | 0 Bytes | [rep_01_odusage] | [sw_01_odusage] | [sys_01_odusage] | [rhy_01_odusage] | [med_01_odusage] |
+| 大小  | 6.578 TiB | 258.297 GiB | 3.763 TiB | 1.931 TiB | [rhy_01_odusage] | 646.567 GiB |
 | 配额  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
 
 ### 🎤 标识介绍
@@ -39,7 +39,7 @@
 
 </details>
 
-### 💾 [软件](./software/) [![Software-orange?logo=DPD&label=[sw_01_odusage_urlenc]](https://img.shields.io/badge/Software-orange?logo=DPD&label=[sw_01_odusage_urlenc]&cacheSeconds=3600)](./software/)
+### 💾 [软件](./software/) [![Software-orange?logo=DPD&label=3.763%20TiB](https://img.shields.io/badge/Software-orange?logo=DPD&label=3.763%20TiB&cacheSeconds=3600)](./software/)
 
 <details>
 <summary>【查看详情】</summary>
@@ -66,7 +66,7 @@
 
 </details>
 
-### 🖥 [系统](./system/) [![System-orange?logo=DPD&label=[sys_01_odusage_urlenc]](https://img.shields.io/badge/System-orange?logo=DPD&label=[sys_01_odusage_urlenc]&cacheSeconds=3600)](./system/)
+### 🖥 [系统](./system/) [![System-orange?logo=DPD&label=1.931%20TiB](https://img.shields.io/badge/System-orange?logo=DPD&label=1.931%20TiB&cacheSeconds=3600)](./system/)
 
 <details>
 <summary>【查看详情】</summary>
