@@ -20,10 +20,10 @@
 
 ## 🏷 分盘列表 [![Root-orange?logo=DPD&label=6.578%20TiB](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.578%20TiB&cacheSeconds=3600)]()
 
-| 盘符  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
-| --- | --------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| 大小  | 6.578 TiB | 258.297 GiB | 3.763 TiB | 1.931 TiB | [rhy_01_odusage] | 646.567 GiB |
-| 配额  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
+| 盘符  | Total           | Repository       | Software        | System           | Media            |
+| --- | --------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| 大小  | 6.578 TiB | 258.297 GiB | 3.763 TiB | 1.931 TiB | 646.567 GiB |
+| 配额  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           |
 
 ### 🎤 标识介绍
 
